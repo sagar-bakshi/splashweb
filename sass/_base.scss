@@ -1,0 +1,22 @@
+
+
+:root{
+  --color-primary:  #54575A;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+    color: var(--color-primary);
+    font-family: 'Lato', sans-serif;
+}
