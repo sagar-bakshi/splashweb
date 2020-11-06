@@ -3,6 +3,7 @@
   position: relative;
   width: 1440px;
   min-height: 1388px;
+  overflow-x: hidden;
   background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), color-stop(49.91%, #F3F8F7), color-stop(94.19%, #FFF9F5));
   background: linear-gradient(180deg, #FFFFFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
 }
